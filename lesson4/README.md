@@ -10,7 +10,13 @@
 
 Линия растянута на всю ширину страницы. Само меню шириной 900px и центрируется.
  
-Шрифт рекомендую - Impact. 
+Шрифт рекомендую - Economica bold. 
+
+Для подключения шрифта вставьте link в title:
+
+```html
+<link href='http://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css'>
+```
 
 ## Задание 2
 
@@ -22,7 +28,11 @@
 
 Линия растянута на всю ширину страницы. Само меню шириной 900px и центрируется.
 
-Шрифт рекомендую - Impact.
+Шрифт рекомендую - Economica bold.
+
+```html
+<link href='http://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css'>
+```
 
 ## Задание 3
 
